@@ -38,10 +38,17 @@ My name is Alef Luiz. I'm 21 years old and I'm from Carapicuiba, SP - Brazil. I 
             width="50px"
             style="border-radius: 8px;">
    </a>
-   <a href="https://www.mysql.com/">
+  <a href="https://www.python.org/">
         <img 
-            src="https://github.com/AlefLuiz/AlefLuiz/blob/master/assets/icons/mysql.svg" 
+            src="https://github.com/AlefLuiz/AlefLuiz/blob/master/assets/icons/python.svg" 
             alt="logo MySQL"
+            width="50px"
+            style="border-radius: 8px;">
+   </a>
+   <a href="https://www.arduino.cc/">
+        <img 
+            src="https://github.com/AlefLuiz/AlefLuiz/blob/master/assets/icons/arduino.svg" 
+            alt="logo Arduino"
             width="50px"
             style="border-radius: 8px;">
    </a>
