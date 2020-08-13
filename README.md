@@ -38,7 +38,7 @@ My name is Alef Luiz. I'm 21 years old and I'm from Carapicuiba, SP - Brazil. I 
             width="50px"
             style="border-radius: 8px;">
    </a>
-  <a href="https://www.python.org/">
+  <a href="https://www.mysql.com/">
         <img 
             src="https://github.com/AlefLuiz/AlefLuiz/blob/master/assets/icons/mysql.svg" 
             alt="logo MySQL"
